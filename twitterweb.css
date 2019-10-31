@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+}
+
+.main{
+
+
+}
+
+.upperpart{
+    display: flex;
+    
+}
+
+.upperleft{
+    background-color: #1da1f2;
+    height: 604px;
+    width: 50%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: #fff;
+}
+
+.upperright{
+    background-color: white;
+    height: 604px;
+    width: 50%;
+    text-align: center;
+    color: #14171a;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+    position: relative;
+}
+
+.lowwerpart{
+    position: relative;
+    height: 63px;
+    width: 100%;
+    background-color: white;
+}
+.button1{
+    height: 34px;
+    width: 350px;
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #1da1f2;
+    border: 1px solid #1da1f2;
+    color: #fff;
+}
+.button2{   
+    height: 34px;
+    width: 350px;
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #fff;
+    border: 1px solid #1da1f2;
+    color: #1da1f2;
+}
+.form{
+    height: 312px;
+    width: 350px;
+    padding: 50px 150px;
+    text-align: center;
+}
+
+.button3{
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #fff;
+    border: 1px solid #1da1f2;
+    color: #1da1f2;
+
+}
+.login{
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+}
+
+.firstword{
+    text-align: left;
+    color: #14171a;
+    font-family: "Segoe UI",Arial,sans-serif;
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    font-size: 18px;
+    line-height: 32px; 
+}
+.secondword{
+    text-align: left;
+    font-family: "Segoe UI",Arial,sans-serif;
+    text-rendering: optimizeLegibility;
+    color: #14171a;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 16px auto;
+    margin-top: 48px;
+}
+.logo2{
+    height: 45px;
+    width: 45px;
+}
+.in1{
+    width: 200px;
+    height: 15px;
+    margin: 12px 0px 0px;
+    padding: 12px;
+    margin: 0;
+    outline: 0;
+    background-color: #fff;
+    border: 1px solid #e6ecf0;
+    border-radius: 3px;
+}
+
+
+
+
+.downnerpart{
+    text-align: center;
+    color: #14171a;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    list-style: none;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: auto;
+}
+a:link{
+    text-decoration: none;
+    padding: 2px;
+    color: #aab8c2;
+    font-size: 12px;
+    background: transparent;
+}
+li{
+    text-align: inherit;
+}
+.words{
+    text-align: left;
+    padding: 10px;
+}
+.blue{
+    padding-top: 170px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 48px auto;
+    color: #fff;
+    line-height: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    max-width: 440px;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+
+    
+}
+.forgot{
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    background: transparent;
+    text-decoration: none;
+    color: #aab8c2;
+}
+
+
+.twitterIcon-bird{
+    overflow: hidden;
+    max-width: none;
+    position: absolute;
+    height: 140vh;
+    right: 20vh;
+    top: -20vh;
+}
+
